@@ -1,3 +1,2 @@
-DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN,ogads-pa.clients6.google.com
+AND,((DOMAIN-KEYWORD,google),(DOMAIN-KEYWORD,ads))
